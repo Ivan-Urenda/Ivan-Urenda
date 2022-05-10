@@ -11,7 +11,6 @@ I am a software engineering student looking to learn new technologies, find chal
 * ✉️  You can contact me at [ivanurenda@hotmail.com](mailto:ivanurenda@hotmail.com)
 * 🚀  I'm currently working on [Nutrity](http://github.com/Ivan-Urenda/Nutrity)
 * 🧠  I'm learning Javascript, Node.js, Kotlin and PHP
-* 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  I secretly watch anime... but don't tell anyone 👀👀
 
 ### Skills
