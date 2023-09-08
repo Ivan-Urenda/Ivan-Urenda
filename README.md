@@ -10,7 +10,7 @@ I am a software engineering student looking to learn new technologies, find chal
 * 🌍  I'm based in Monterrey, NL
 * ✉️  You can contact me at [ivanurenda@hotmail.com](mailto:ivanurenda@hotmail.com)
 * 🚀  I'm currently working on [Nutrity](http://github.com/Ivan-Urenda/Nutrity)
-* 🧠  I'm learning Javascript, Node.js, Kotlin and PHP
+* 🧠  I'm learning Javascript, Node.js and Kotlin
 * ⚡  I secretly watch anime... but don't tell anyone 👀👀
 
 ### Skills
